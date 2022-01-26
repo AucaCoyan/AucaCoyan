@@ -11,3 +11,8 @@
 - [https://github.com/ari-hacks](https://github.com/ari-hacks)
 - [Dev repo](https://dev.to/waylonwalker/what-s-on-your-github-profile-40p3)
 - [2020-08-06 - Automatización de lo que se ve en el perfil de GitHub](https://fernand0.github.io/perfil-automatico-github/)
+- [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+- [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+- [https://github.com/novakcgx/novakcgx](https://github.com/novakcgx/novakcgx)
+- https://github.com/dayyass/dayyass/blob/main/README.md
+- https://github.com/keshavsingh4522/keshavsingh4522
