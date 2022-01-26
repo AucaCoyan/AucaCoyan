@@ -10,14 +10,14 @@
 - **DS/ML/DL**: &nbsp;  NumPy, Matplotlib, Pandas, , Jupiter, Scikit-Learn, TensorFlow
 - **Scripting**:        AutoHotKey
 
-And also, from my previus positions as a civil engineer, I'm an expert on **AutoCAD** & **Excel**
+And also, from my previous positions as a Civil Engineer, I'm an expert on **AutoCAD** & **Excel**
 
 # About me: 👨
-My name is Auca Coyan, an I am a civil engineer👷‍♂️ with a passion for coding👨‍💻, CLI`<>`, nightly builds🐛 and finances💹. It still amaze me to this day how machines can learn and give us (sometimes) accurate recommendations.
+My name is Auca Coyan, an I am a Civil Engineer👷‍♂️ with a passion for coding👨‍💻, CLI`<>`, nightly builds🐛 and finances💹. It still amazes me to this day how machines can learn and give us (sometimes) accurate recommendations.
 
-I live on Buenos Aires, Argentina and I'm an avid self-learner.
+I live in Buenos Aires, Argentina and I'm an avid self-learner.
 
-On my free time, I play tabletop RPG with my friends, practise Kung Fu and Tai Chi Chuan, play videogames and I'm gettig back to reading.
+In my free time, I play tabletop RPG with my friends, practise Kung Fu and Tai Chi Chuan, play videogames and catch up with my reading.
 
 # Contact: 📨
 - Email me at [aucacoyan@gmail.com](aucacoyan@gmail.com)
