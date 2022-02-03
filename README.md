@@ -7,7 +7,7 @@
 
 # Technologies and languages I use everyday: 🧰
 - **Languages**:        Python
-- **DS/ML/DL**: &nbsp;  NumPy, Matplotlib, Pandas, , Jupiter, Scikit-Learn, TensorFlow
+- **DS/ML/DL**: &nbsp;  NumPy, Matplotlib, Pandas, Jupiter, Scikit-Learn, TensorFlow
 - **Scripting**:        AutoHotKey
 
 And also, from my previous positions as a Civil Engineer, I'm an expert on **AutoCAD** & **Excel**
