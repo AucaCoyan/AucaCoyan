@@ -22,6 +22,7 @@ In my free time, I play tabletop RPG with my friends, practise Kung Fu and Tai C
 # Contact: 📨
 - Email me at [aucacoyan@gmail.com](aucacoyan@gmail.com)
 - Check my [LinkedIn](https://www.linkedin.com/in/auca-coyan-maillot-58900237/)
+- See my [résumé](http://tiny.cc/AucaCV)
 - **AucaCoyan#9411** on Discord
 
 <!--
