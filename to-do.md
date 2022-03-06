@@ -5,6 +5,7 @@
 - Add gradient bars [like this](https://github.com/majoledesma?tab=overview&from=2021-12-01&to=2021-12-31)
 - Add language and tools icons [like this](https://github.com/MitanshuShaBa/MitanshuShaBa)
 - Write a blog
+- <!-- ![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg) -->
 
 # Inspiration
 - [https://aboutmonica.com/blog/how-to-create-a-github-profile-readme/](https://aboutmonica.com/blog/how-to-create-a-github-profile-readme/)
