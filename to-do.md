@@ -6,6 +6,7 @@
 - Add language and tools icons [like this](https://github.com/MitanshuShaBa/MitanshuShaBa)
 - Write a blog
 - <!-- ![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg) -->
+- https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66
 
 # Inspiration
 - [https://aboutmonica.com/blog/how-to-create-a-github-profile-readme/](https://aboutmonica.com/blog/how-to-create-a-github-profile-readme/)
