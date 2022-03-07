@@ -1,7 +1,7 @@
 # Hello there 👋
 
 [![wakatime](https://wakatime.com/badge/user/990b0f6a-438a-45ae-bda7-4c59b13f6f11.svg)](https://wakatime.com/@990b0f6a-438a-45ae-bda7-4c59b13f6f11)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AucaCoyan&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AucaCoyan&left_color=#9cbf7b&right_color=#92278f)
 
 - 🚀 I'm looking for a job at the moment.
 - 🧠 I’m currently learning **TensorFlow**
