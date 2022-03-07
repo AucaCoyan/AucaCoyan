@@ -22,6 +22,9 @@ I live in Buenos Aires, Argentina and I'm an avid self-learner.
 
 In my free time, I play tabletop RPG with my friends, practise Kung Fu and Tai Chi Chuan, play videogames and catch up with my reading.
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 # Contact: 📨
 - Email me at [aucacoyan@gmail.com](aucacoyan@gmail.com)
 - Check my [LinkedIn](https://www.linkedin.com/in/auca-coyan-maillot/)
