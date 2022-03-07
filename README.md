@@ -1,5 +1,8 @@
 # Hello there 👋
 
+[![wakatime](https://wakatime.com/badge/user/990b0f6a-438a-45ae-bda7-4c59b13f6f11.svg)](https://wakatime.com/@990b0f6a-438a-45ae-bda7-4c59b13f6f11)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AucaCoyan&left_color=green&right_color=red)
+
 - 🚀 I'm looking for a job at the moment.
 - 🧠 I’m currently learning **TensorFlow**
 - 😄 Pronouns: He/him
@@ -21,7 +24,7 @@ In my free time, I play tabletop RPG with my friends, practise Kung Fu and Tai C
 
 # Contact: 📨
 - Email me at [aucacoyan@gmail.com](aucacoyan@gmail.com)
-- Check my [LinkedIn](https://www.linkedin.com/in/auca-coyan-maillot-58900237/)
+- Check my [LinkedIn](https://www.linkedin.com/in/auca-coyan-maillot/)
 - See my [résumé](http://tiny.cc/AucaCV)
 - **AucaCoyan#9411** on Discord
 
