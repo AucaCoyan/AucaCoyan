@@ -23,6 +23,13 @@ I live in Buenos Aires, Argentina and I'm an avid self-learner.
 In my free time, I play tabletop RPG with my friends, practise Kung Fu and Tai Chi Chuan, play videogames and catch up with my reading.
 
 <!--START_SECTION:waka-->
+
+```text
+Python       1 min           █████████████████████░░░░   83.39 %
+AutoHotkey   0 secs          ████░░░░░░░░░░░░░░░░░░░░░   16.18 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+```
+
 <!--END_SECTION:waka-->
 
 # Contact: 📨
