@@ -3,8 +3,13 @@
 [![wakatime](https://wakatime.com/badge/user/990b0f6a-438a-45ae-bda7-4c59b13f6f11.svg)](https://wakatime.com/@990b0f6a-438a-45ae-bda7-4c59b13f6f11)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AucaCoyan&left_color=#9cbf7b&right_color=#92278f)
 
+
+![](https://github.com/AucaCoyan/github-stats-copy/blob/master/generated/overview.svg)
+![](https://github.com/AucaCoyan/github-stats-copy/blob/master/generated/languages.svg)
+
+
 - 🚀 I'm looking for a job at the moment.
-- 🧠 I’m currently learning **TensorFlow**
+- 🧠 I’m currently learning **Django**
 - 😄 Pronouns: He/him
 - ⚡ Fun fact you didn't know: [Cars are parked 95% of the time](https://www.reinventingparking.org/2013/02/cars-are-parked-95-of-time-lets-check.html)
 
@@ -21,6 +26,9 @@ My name is Auca Coyan, an I am a Civil Engineer👷‍♂️ with a passion for 
 I live in Buenos Aires, Argentina and I'm an avid self-learner.
 
 In my free time, I play tabletop RPG with my friends, practise Kung Fu and Tai Chi Chuan, play videogames and catch up with my reading.
+
+
+
 
 <!--START_SECTION:waka-->
 
