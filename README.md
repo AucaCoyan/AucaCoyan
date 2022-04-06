@@ -14,9 +14,8 @@
 - ⚡ Fun fact you didn't know: [Cars are parked 95% of the time](https://www.reinventingparking.org/2013/02/cars-are-parked-95-of-time-lets-check.html)
 
 # Technologies and languages I use everyday: 🧰
-- **Languages**:        Python
-- **DS/ML/DL**: &nbsp;  NumPy, Matplotlib, Pandas, Jupiter, Scikit-Learn, TensorFlow
-- **Scripting**:        AutoHotKey
+- **Languages**:        Python, AutoHotKey, HTML, CSS, Javascript, Go
+- **DS/ML/DL**: &nbsp;  Django, Django-Rest-Framework, yfinance, NumPy, Matplotlib, Pandas, Jupiter, Scikit-Learn, TensorFlow
 
 And also, from my previous positions as a Civil Engineer, I'm an expert on **AutoCAD** & **Excel**
 
