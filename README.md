@@ -32,12 +32,12 @@ In my free time, I play tabletop RPG with my friends, practise Kung Fu and Tai C
 <!--START_SECTION:waka-->
 
 ```text
-Python       8 hrs 51 mins   ██████████████▓░░░░░░░░░░   59.20 %
-Go           1 hr 40 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.17 %
-Rust         1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
-Markdown     1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
-INI          46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
-TOML         31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+Python       7 hrs 27 mins   ███████████▒░░░░░░░░░░░░░   45.59 %
+TOML         3 hrs 25 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.97 %
+Go           1 hr 27 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 %
+Markdown     1 hr 12 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
+Rust         1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
+INI          46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
 ```
 
 <!--END_SECTION:waka-->
