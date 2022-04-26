@@ -32,11 +32,11 @@ In my free time, I play tabletop RPG with my friends, practise Kung Fu and Tai C
 <!--START_SECTION:waka-->
 
 ```text
-Python       10 hrs 17 mins  ████████████████████████░   95.99 %
-JSON         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
-Go           3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-Batchfile    3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Python       6 hrs 22 mins   ███████████████████████▒░   93.68 %
+JSON         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+Go           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+Batchfile    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
 
 <!--END_SECTION:waka-->
