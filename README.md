@@ -8,14 +8,14 @@
 ![](https://github.com/AucaCoyan/github-stats-copy/blob/master/generated/languages.svg)
 
 
-- 🚀 I'm looking for a job at the moment.
-- 🧠 I’m currently learning **Django**
+- 🚀 I'm working as I+D Support at [Rocketbot](https://rocketbot.com/).
+- 🧠 I’m currently learning **Python Packaging**
 - 😄 Pronouns: He/him
 - ⚡ Fun fact you didn't know: [Cars are parked 95% of the time](https://www.reinventingparking.org/2013/02/cars-are-parked-95-of-time-lets-check.html)
 
 # Technologies and languages I use everyday: 🧰
 - **Languages**:        Python, AutoHotKey, HTML, CSS, Javascript, Go
-- **DS/ML/DL**: &nbsp;  Django, Django-Rest-Framework, yfinance, NumPy, Matplotlib, Pandas, Jupiter, Scikit-Learn, TensorFlow
+- **Libraries**: &nbsp;  Django, Django-Rest-Framework, yfinance, NumPy, Matplotlib, Pandas, Jupiter, Scikit-Learn, TensorFlow
 
 And also, from my previous positions as a Civil Engineer, I'm an expert on **AutoCAD** & **Excel**
 
