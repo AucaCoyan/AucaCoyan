@@ -13,7 +13,7 @@
 </div>
 
 - 🚀 I'm working as I+D Support at [Rocketbot](https://rocketbot.com/).
-- 🧠 I’m currently learning **Python Packaging**
+- 🧠 I’m currently learning **Flutter**
 - 😄 Pronouns: He/him
 - ⚡ Fun fact you didn't know: [Cars are parked 95% of the time](https://www.reinventingparking.org/2013/02/cars-are-parked-95-of-time-lets-check.html)
 
