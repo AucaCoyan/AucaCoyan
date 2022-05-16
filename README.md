@@ -3,10 +3,12 @@
 [![wakatime](https://wakatime.com/badge/user/990b0f6a-438a-45ae-bda7-4c59b13f6f11.svg)](https://wakatime.com/@990b0f6a-438a-45ae-bda7-4c59b13f6f11)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AucaCoyan&left_color=#9cbf7b&right_color=#92278f)
 
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AucaCoyan&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![](https://github.com/AucaCoyan/github-stats-copy/blob/master/generated/overview.svg)
 ![](https://github.com/AucaCoyan/github-stats-copy/blob/master/generated/languages.svg)
-
+</div>
 
 - 🚀 I'm working as I+D Support at [Rocketbot](https://rocketbot.com/).
 - 🧠 I’m currently learning **Python Packaging**
