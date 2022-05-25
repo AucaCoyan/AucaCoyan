@@ -36,12 +36,12 @@ In my free time, I play tabletop RPG with my friends, practise Kung Fu and Tai C
 <!--START_SECTION:waka-->
 
 ```text
-Python       16 hrs 31 mins  ███████████████░░░░░░░░░░   59.52 %
-Markdown     3 hrs 22 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.14 %
-JSON         3 hrs           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 %
-Dart         1 hr 43 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
-YAML         1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
-Astro        52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+Python       14 hrs 33 mins  ███████████████░░░░░░░░░░   60.19 %
+Markdown     2 hrs 59 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.40 %
+JSON         2 hrs 31 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
+Dart         1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+Astro        52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
+YAML         45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
 ```
 
 <!--END_SECTION:waka-->
