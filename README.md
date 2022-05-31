@@ -36,12 +36,12 @@ In my free time, I play tabletop RPG with my friends, practise Kung Fu and Tai C
 <!--START_SECTION:waka-->
 
 ```text
-Python       10 hrs 29 mins  ███████████████████▒░░░░░   77.88 %
-YAML         1 hr 52 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.90 %
-TOML         40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
-Bash         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
-XML          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Python       11 hrs 21 mins  ███████████████████▓░░░░░   78.74 %
+YAML         1 hr 52 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.98 %
+TOML         40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
+Bash         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Markdown     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+XML          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
