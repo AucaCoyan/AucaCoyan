@@ -12,14 +12,30 @@
 ![](https://github.com/AucaCoyan/github-stats-copy/blob/master/generated/languages.svg)
 </div>
 
+
+
 - 🚀 I'm working as I+D Support at [Rocketbot](https://rocketbot.com/).
 - 🧠 I’m currently learning **Flutter**
 - 😄 Pronouns: He/him
 - ⚡ Fun fact you didn't know: [Cars are parked 95% of the time](https://www.reinventingparking.org/2013/02/cars-are-parked-95-of-time-lets-check.html)
 
 # Technologies and languages I use everyday: 🧰
-- **Languages**:        Python, AutoHotKey, HTML, CSS, Javascript, Go
-- **Libraries**: &nbsp;  Django, Django-Rest-Framework, yfinance, NumPy, Matplotlib, Pandas, Jupiter, Scikit-Learn, TensorFlow
+- **Languages**:        Python, Dart, Javascript, AutoHotKey, HTML, CSS, Go
+- **Libraries**: &nbsp;  pytest, mypy, Django, Django-Rest-Framework, yfinance, NumPy, Matplotlib, Pandas, Jupiter, Scikit-Learn, TensorFlow
+
+This are my last 7 days language logs:
+<!--START_SECTION:waka-->
+
+```text
+Dart         7 hrs 52 mins   █████████████▒░░░░░░░░░░░   53.22 %
+Python       3 hrs 16 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.08 %
+Markdown     1 hr 30 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.22 %
+YAML         50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
+Git Config   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+PowerShell   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+```
+
+<!--END_SECTION:waka-->
 
 And also, from my previous positions as a Civil Engineer, I'm an expert on **AutoCAD** & **Excel**
 
@@ -33,18 +49,6 @@ In my free time, I play tabletop RPG with my friends, practise Kung Fu and Tai C
 
 
 
-<!--START_SECTION:waka-->
-
-```text
-Dart         7 hrs 52 mins   █████████████▒░░░░░░░░░░░   53.22 %
-Python       3 hrs 16 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.08 %
-Markdown     1 hr 30 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.22 %
-YAML         50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
-Git Config   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-PowerShell   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-```
-
-<!--END_SECTION:waka-->
 
 # Contact: 📨
 - Email me at [aucacoyan@gmail.com](aucacoyan@gmail.com)
