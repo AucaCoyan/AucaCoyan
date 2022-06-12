@@ -27,12 +27,12 @@ This are my last 7 days language logs:
 <!--START_SECTION:waka-->
 
 ```text
-Dart         9 hrs 54 mins   ███████████▒░░░░░░░░░░░░░   45.39 %
-Python       6 hrs 42 mins   ███████▓░░░░░░░░░░░░░░░░░   30.75 %
-Markdown     1 hr 51 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
-YAML         1 hr 32 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
-TOML         31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
-Git Config   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Python       7 hrs 46 mins   ██████████▒░░░░░░░░░░░░░░   41.74 %
+Dart         5 hrs 29 mins   ███████▒░░░░░░░░░░░░░░░░░   29.49 %
+Markdown     2 hrs           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.82 %
+YAML         1 hr 29 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
+TOML         31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+Git Config   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
 ```
 
 <!--END_SECTION:waka-->
