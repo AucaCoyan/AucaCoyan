@@ -5,10 +5,6 @@
 [![wakatime](https://wakatime.com/badge/user/990b0f6a-438a-45ae-bda7-4c59b13f6f11.svg)](https://wakatime.com/@990b0f6a-438a-45ae-bda7-4c59b13f6f11)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AucaCoyan&left_color=#9cbf7b&right_color=#92278f)
 
-
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AucaCoyan&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
 ![](https://github.com/AucaCoyan/github-stats-copy/blob/master/generated/languages.svg)
 </div>
 
@@ -56,10 +52,6 @@ In my free time, I play tabletop RPG with my friends, practise Kung Fu and Tai C
 - **AucaCoyan#9411** on Discord
 
 <!--
-**AucaCoyan/AucaCoyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
