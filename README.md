@@ -23,12 +23,12 @@ This are my last 7 days language logs:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   4 hrs 57 mins   ██████████████░░░░░░░░░░░   55.77 %
-Markdown     1 hr 14 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.94 %
-PowerShell   1 hr 5 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.24 %
-CSS          48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
-Go           16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
-HTML         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+TypeScript   2 hrs 50 mins   ████████▓░░░░░░░░░░░░░░░░   34.06 %
+JSON         2 hrs 15 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.95 %
+Markdown     1 hr 22 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.40 %
+PowerShell   1 hr 5 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.01 %
+CSS          17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+Go           16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
 ```
 
 <!--END_SECTION:waka-->
