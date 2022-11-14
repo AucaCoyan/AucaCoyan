@@ -10,13 +10,13 @@
 
 
 
-- 🚀 I'm working as I+D Support at [Rocketbot](https://rocketbot.com/).
-- 🧠 I’m currently learning **React, NextJS and Typescript**
+- 🚀 I'm working as Fullstack dev at [Farmacity](https://www.farmacity.com/).
+- 🧠 I’m currently learning **Rust and Typescript**
 - 😄 Pronouns: He/him
 - ⚡ Fun fact you didn't know: [Cars are parked 95% of the time](https://www.reinventingparking.org/2013/02/cars-are-parked-95-of-time-lets-check.html)
 
 # Technologies and languages I use everyday: 🧰
-- **Languages**:        Python, Flutter, Dart, Javascript, AutoHotKey, HTML, CSS, Go
+- **Languages**:        Python, Typescript, Rust, Flutter, Dart, Javascript, AutoHotKey, HTML, CSS, Go
 - **Libraries**: &nbsp;  pytest, mypy, Django, Django-Rest-Framework, yfinance, NumPy, Matplotlib, Pandas, Jupiter, Scikit-Learn, TensorFlow
 
 This are my last 7 days language logs:
