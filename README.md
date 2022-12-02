@@ -23,12 +23,12 @@ This are my last 7 days language logs:
 <!--START_SECTION:waka-->
 
 ```text
-AutoHotkey   3 hrs 36 mins   ███████████▒░░░░░░░░░░░░░   45.12 %
-JSON         2 hrs 29 mins   ███████▓░░░░░░░░░░░░░░░░░   31.24 %
-Python       34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
-PowerShell   22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
-SQL          17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
-Other        15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+AutoHotkey   3 hrs 42 mins   ███████████▓░░░░░░░░░░░░░   47.12 %
+JSON         2 hrs 31 mins   ████████░░░░░░░░░░░░░░░░░   32.00 %
+Python       34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
+PowerShell   24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
+SQL          17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
+Other        10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
 ```
 
 <!--END_SECTION:waka-->
