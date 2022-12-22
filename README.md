@@ -23,12 +23,12 @@ This are my last 7 days language logs:
 <!--START_SECTION:waka-->
 
 ```text
-Rust         2 hrs 18 mins   ████████▓░░░░░░░░░░░░░░░░   34.40 %
-Markdown     1 hr 14 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.49 %
-PowerShell   59 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.79 %
-JSON         41 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 %
-Python       37 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
-Other        17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
+Rust         2 hrs 18 mins   ███████░░░░░░░░░░░░░░░░░░   27.61 %
+Markdown     1 hr 35 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.06 %
+AutoHotkey   1 hr 14 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.87 %
+PowerShell   59 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 %
+JSON         42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
+Python       37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
 ```
 
 <!--END_SECTION:waka-->
