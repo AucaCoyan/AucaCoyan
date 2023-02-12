@@ -23,12 +23,10 @@ This are my last 7 days language logs:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   3 hrs 13 mins   █████████████░░░░░░░░░░░░   51.90 %
-Astro        1 hr 21 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.85 %
-Markdown     37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 %
-CSS          16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-JSON         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
-JavaScript   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+TypeScript   3 hrs 27 mins   █████████░░░░░░░░░░░░░░░░   35.99 %
+Astro        3 hrs 7 mins    ████████░░░░░░░░░░░░░░░░░   32.52 %
+Markdown     1 hr 23 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.43 %
+Other        26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
 ```
 
 <!--END_SECTION:waka-->
