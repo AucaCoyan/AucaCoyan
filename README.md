@@ -23,11 +23,10 @@ This are my last 7 days language logs:
 <!--START_SECTION:waka-->
 
 ```text
-YAML         1 hr 36 mins    ███████░░░░░░░░░░░░░░░░░░   28.53 %
-Python       1 hr 2 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.41 %
-AutoHotkey   57 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.91 %
-SQL          54 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.02 %
-Other        50 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 %
+YAML         1 hr 36 mins    ████████████░░░░░░░░░░░░░   48.37 %
+AutoHotkey   57 mins         ███████▒░░░░░░░░░░░░░░░░░   28.67 %
+Python       16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
+Other        14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
 ```
 
 <!--END_SECTION:waka-->
