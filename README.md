@@ -23,7 +23,8 @@ This are my last 7 days language logs:
 <!--START_SECTION:waka-->
 
 ```text
-Other        1 hr 5 mins     ██████▓░░░░░░░░░░░░░░░░░░   27.09 %
+TypeScript   1 hr 13 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.29 %
+Other        1 hr 12 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.95 %
 ```
 
 <!--END_SECTION:waka-->
