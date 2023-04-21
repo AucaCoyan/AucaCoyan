@@ -23,7 +23,9 @@ This are my last 7 days language logs:
 <!--START_SECTION:waka-->
 
 ```text
-Other        2 hrs 2 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.75 %
+YAML         2 hrs 2 mins    ███████░░░░░░░░░░░░░░░░░░   28.58 %
+Rust         1 hr 37 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.82 %
+Other        1 hr 35 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.23 %
 ```
 
 <!--END_SECTION:waka-->
