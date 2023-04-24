@@ -23,8 +23,7 @@ This are my last 7 days language logs:
 <!--START_SECTION:waka-->
 
 ```text
-Rust         1 hr 45 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.32 %
-Other        1 hr 13 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.97 %
+Other        2 hrs 23 mins   ███████▒░░░░░░░░░░░░░░░░░   29.26 %
 ```
 
 <!--END_SECTION:waka-->
