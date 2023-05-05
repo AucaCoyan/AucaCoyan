@@ -23,9 +23,12 @@ This are my last 7 days language logs:
 <!--START_SECTION:waka-->
 
 ```text
-Rust         5 hrs 58 mins   ██████████████▓░░░░░░░░░░   59.31 %
-Python       48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
-Other        39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
+Rust         6 hrs 5 mins    ███████████████▓░░░░░░░░░   62.65 %
+XML          49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
+Python       46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
+Markdown     33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+Text         25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
+Other        15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
 ```
 
 <!--END_SECTION:waka-->
