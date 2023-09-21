@@ -5,7 +5,6 @@
 [![wakatime](https://wakatime.com/badge/user/990b0f6a-438a-45ae-bda7-4c59b13f6f11.svg)](https://wakatime.com/@990b0f6a-438a-45ae-bda7-4c59b13f6f11)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AucaCoyan&left_color=#9cbf7b&right_color=#92278f)
 
-![](https://github.com/AucaCoyan/github-stats-copy/blob/master/generated/languages.svg)
 </div>
 
 
