@@ -22,11 +22,11 @@ This are my last 7 days language logs:
 <!--START_SECTION:waka-->
 
 ```txt
-PowerShell      10 hrs 9 mins   ████████████░░░░░░░░░░░░░   47.45 %
-XML             2 hrs 31 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.79 %
-Rust            1 hr 31 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
-Other           1 hr 22 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
-JSON            53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
+PowerShell      10 hrs 9 mins   ████████████░░░░░░░░░░░░░   48.44 %
+XML             2 hrs 21 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.24 %
+Rust            1 hr 34 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
+Other           1 hr 22 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
+JSON            53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
 ```
 
 <!--END_SECTION:waka-->
