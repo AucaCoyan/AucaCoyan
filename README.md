@@ -22,11 +22,7 @@ This are my last 7 days language logs:
 <!--START_SECTION:waka-->
 
 ```txt
-Astro            24 mins         ███████░░░░░░░░░░░░░░░░░░   28.49 %
-Ezhil            16 mins         █████░░░░░░░░░░░░░░░░░░░░   19.48 %
-TypeScript       15 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.82 %
-JSON             10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 %
-Lua              7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
