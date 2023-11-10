@@ -22,11 +22,9 @@ This are my last 7 days language logs:
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         18 mins         █████████▓░░░░░░░░░░░░░░░   38.21 %
-PowerShell   9 mins          █████░░░░░░░░░░░░░░░░░░░░   20.10 %
-Nushell      7 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.64 %
-JavaScript   5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
-Text         3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
+PowerShell   9 mins          ███████████▓░░░░░░░░░░░░░   47.21 %
+Nushell      7 mins          █████████▒░░░░░░░░░░░░░░░   36.72 %
+Text         3 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.07 %
 ```
 
 <!--END_SECTION:waka-->
