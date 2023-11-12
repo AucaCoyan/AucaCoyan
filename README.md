@@ -22,9 +22,11 @@ This are my last 7 days language logs:
 <!--START_SECTION:waka-->
 
 ```txt
-PowerShell   9 mins          ███████████▓░░░░░░░░░░░░░   47.21 %
-Nushell      7 mins          █████████▒░░░░░░░░░░░░░░░   36.72 %
-Text         3 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.07 %
+PowerShell   11 mins         ████████▓░░░░░░░░░░░░░░░░   35.16 %
+YAML         9 mins          ███████▒░░░░░░░░░░░░░░░░░   28.99 %
+Nushell      7 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.92 %
+AutoHotkey   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
+Git Config   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
 ```
 
 <!--END_SECTION:waka-->
