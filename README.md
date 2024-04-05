@@ -22,11 +22,11 @@ This are my last 7 days language logs:
 <!--START_SECTION:waka-->
 
 ```txt
-Nushell         5 hrs 24 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.84 %
-Rust            5 hrs 1 min     ██████▒░░░░░░░░░░░░░░░░░░   24.94 %
-JSON            4 hrs 21 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.59 %
-Python          1 hr 54 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
-YAML            1 hr 21 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
+Rust            4 hrs 40 mins   ███████▒░░░░░░░░░░░░░░░░░   28.93 %
+JSON            4 hrs 31 mins   ███████░░░░░░░░░░░░░░░░░░   27.99 %
+Python          2 hrs 24 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.89 %
+YAML            1 hr 13 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
+Markdown        59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
 ```
 
 <!--END_SECTION:waka-->
