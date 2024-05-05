@@ -9,14 +9,14 @@
 
 
 
-- 🚀 I'm working as Fullstack dev at [Farmacity](https://www.farmacity.com/).
+- 🚀 I'm working as Fullstack dev at [WePlan Latam](https://weplan-latam.com/en/home-english/) providing solutions for [MercadoLibre](https://www.mercadolibre.com.ar/)
 - 🧠 I’m currently learning **Rust and Typescript**
 - 😄 Pronouns: He/him
-- ⚡ Fun fact you didn't know: [Cars are parked 95% of the time](https://www.reinventingparking.org/2013/02/cars-are-parked-95-of-time-lets-check.html)
+- ⚡ Fun fact you didn't know: Cats have over 30 different muscles in each ear, allowing them to swivel them in all directions.
 
 # Technologies and languages I use everyday: 🧰
-- **Languages**:        Python, Typescript, Rust, Flutter, Dart, Javascript, AutoHotKey, HTML, CSS, Go
-- **Libraries**: &nbsp;  pytest, mypy, Django, Django-Rest-Framework, yfinance, NumPy, Matplotlib, Pandas, Jupiter, Scikit-Learn, TensorFlow
+- **Languages**:        Python, Typescript, Rust, Flutter, Dart, Javascript, HTML, CSS
+- **Python libraries**: &nbsp;  pytest, pydantic, mypy, Django, Django-Rest-Framework, yfinance, NumPy, Matplotlib, Pandas, Jupiter, Scikit-Learn, TensorFlow
 
 This are my last 7 days language logs:
 <!--START_SECTION:waka-->
@@ -31,23 +31,17 @@ JSON         1 hr 24 mins    ██░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-And also, from my previous positions as a Civil Engineer, I'm an expert on **AutoCAD** & **Excel**
-
 # About me: 👨
-My name is Auca Coyan, an I am a Civil Engineer👷‍♂️ with a passion for coding👨‍💻, CLI`<>`, nightly builds🐛 and finances💹. It still amazes me to this day how machines can learn and give us (sometimes) accurate recommendations.
 
-I live in Buenos Aires, Argentina and I'm an avid self-learner.
+My name is Auca Coyan, an I am a Civil Engineer👷‍♂️ with a passion for coding👨‍💻, CLI`<>` and Open Source. It still amazes me to this day how machines can learn and give us (sometimes) accurate recommendations.
 
-In my free time, I play tabletop RPG with my friends, practise Kung Fu and Tai Chi Chuan, play videogames and catch up with my reading.
+I live in Buenos Aires, Argentina and I'm an avid self-learner. I'm always looking for a new course or challenge!.
 
-
-
-
+In my free time, I play tabletop RPG with my friends, bike around, play videogames and catch up with my reading.
 
 # Contact: 📨
 - Email me at [aucacoyan@gmail.com](aucacoyan@gmail.com)
 - Check my [LinkedIn](https://www.linkedin.com/in/auca-coyan-maillot/)
-- See my [résumé](http://tiny.cc/AucaCV)
 - **AucaCoyan#9411** on Discord
 
 <!--
