@@ -22,11 +22,11 @@ This are my last 7 days language logs:
 <!--START_SECTION:waka-->
 
 ```txt
-Python        8 hrs 29 mins   ████████████░░░░░░░░░░░░░   47.83 %
-Docker        1 hr 48 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.22 %
-Makefile      1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
-YAML          1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
-TypeScript    51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+Python        8 hrs 29 mins   ████████████░░░░░░░░░░░░░   48.06 %
+Docker        1 hr 48 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 %
+Makefile      1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
+YAML          1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
+TOML          52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
 ```
 
 <!--END_SECTION:waka-->
