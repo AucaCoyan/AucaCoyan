@@ -22,11 +22,11 @@ This are my last 7 days language logs:
 <!--START_SECTION:waka-->
 
 ```txt
-Python        5 hrs 45 mins   ████████▒░░░░░░░░░░░░░░░░   33.68 %
-TypeScript    4 hrs 13 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.70 %
-Other         1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
-Rust          1 hr 18 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
-JavaScript    1 hr 18 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
+TypeScript    4 hrs 2 mins    ███████▓░░░░░░░░░░░░░░░░░   31.19 %
+Other         1 hr 22 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 %
+Rust          1 hr 21 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 %
+Lua           1 hr 13 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
+Python        1 hr 9 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 %
 ```
 
 <!--END_SECTION:waka-->
