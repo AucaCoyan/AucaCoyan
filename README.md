@@ -22,11 +22,11 @@ This are my last 7 days language logs:
 <!--START_SECTION:waka-->
 
 ```txt
-PowerShell                         2 hrs 33 mins   ████████▓░░░░░░░░░░░░░░░░   35.17 %
-YAML                               1 hr 18 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.89 %
-Markdown                           1 hr 13 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.80 %
-Python                             41 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
-JSON                               28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
+PowerShell                         2 hrs 33 mins   ██████████░░░░░░░░░░░░░░░   39.88 %
+YAML                               1 hr 18 mins    █████░░░░░░░░░░░░░░░░░░░░   20.29 %
+Markdown                           1 hr 14 mins    █████░░░░░░░░░░░░░░░░░░░░   19.41 %
+JSON                               26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
+Inno Setup                         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
 ```
 
 <!--END_SECTION:waka-->
