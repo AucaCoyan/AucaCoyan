@@ -20,11 +20,11 @@ This are my last 7 days language logs:
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              5 hrs 31 mins   ████████▓░░░░░░░░░░░░░░░░   34.26 %
-Rust             2 hrs 27 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.27 %
-JavaScript       2 hrs 12 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.71 %
-YAML             58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
-Other            52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
+PHP              5 hrs 31 mins   █████████▓░░░░░░░░░░░░░░░   38.51 %
+JavaScript       2 hrs 12 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.41 %
+Rust             1 hr 22 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 %
+YAML             58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
+Other            48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
 ```
 
 <!--END_SECTION:waka-->
