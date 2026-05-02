@@ -20,11 +20,11 @@ This are my last 7 days language logs:
 <!--START_SECTION:waka-->
 
 ```txt
-Vue                  3 hrs 2 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.61 %
-PHP                  2 hrs 46 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.15 %
-JavaScript           2 hrs 33 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.96 %
-JSON                 2 hrs 23 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.06 %
-Markdown             1 hr 55 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
+Vue                  3 hrs 22 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.03 %
+JavaScript           3 hrs 3 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.34 %
+PHP                  2 hrs 32 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.59 %
+JSON                 2 hrs 23 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.72 %
+TypeScript           2 hrs 12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 %
 ```
 
 <!--END_SECTION:waka-->
