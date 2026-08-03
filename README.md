@@ -20,11 +20,7 @@ This are my last 7 days language logs:
 <!--START_SECTION:waka-->
 
 ```txt
-Bash            40 mins               ███████▓░░░░░░░░░░░░░░░░░   30.82 %
-Rust            27 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.12 %
-TOML            18 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.41 %
-JSON            16 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
-YAML            6 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
