@@ -20,7 +20,10 @@ This are my last 7 days language logs:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+CSV        12 mins               ███████████████████░░░░░░   75.85 %
+Python     3 mins                █████░░░░░░░░░░░░░░░░░░░░   19.73 %
+Markdown   0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
+Other      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
