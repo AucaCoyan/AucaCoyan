@@ -20,10 +20,10 @@ This are my last 7 days language logs:
 <!--START_SECTION:waka-->
 
 ```txt
-CSV        12 mins               ███████████████████░░░░░░   75.85 %
-Python     3 mins                █████░░░░░░░░░░░░░░░░░░░░   19.73 %
-Markdown   0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
-Other      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+CSV        27 mins               ██████████████████████░░░   87.37 %
+Python     3 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 %
+Markdown   0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+Other      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
