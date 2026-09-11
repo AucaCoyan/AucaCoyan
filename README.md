@@ -20,11 +20,7 @@ This are my last 7 days language logs:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   35 mins               ██████████████▒░░░░░░░░░░   57.31 %
-Rust       17 mins               ███████░░░░░░░░░░░░░░░░░░   28.63 %
-Bash       8 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 %
-TOML       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Other      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
