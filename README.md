@@ -20,7 +20,8 @@ This are my last 7 days language logs:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Rust   18 mins               ████████████████████████▒   97.14 %
+TOML   0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
 ```
 
 <!--END_SECTION:waka-->
