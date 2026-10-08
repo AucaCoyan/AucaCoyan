@@ -20,7 +20,11 @@ This are my last 7 days language logs:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML   0 secs                █████████████████████████   100.00 %
+JSON         13 mins               ██████████████░░░░░░░░░░░   55.84 %
+Markdown     6 mins                ███████░░░░░░░░░░░░░░░░░░   27.83 %
+JavaScript   3 mins                ████░░░░░░░░░░░░░░░░░░░░░   15.74 %
+Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+YAML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
