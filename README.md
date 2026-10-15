@@ -20,10 +20,7 @@ This are my last 7 days language logs:
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         13 mins               ██████████████░░░░░░░░░░░   55.87 %
-Markdown     6 mins                ███████░░░░░░░░░░░░░░░░░░   27.85 %
-JavaScript   3 mins                ████░░░░░░░░░░░░░░░░░░░░░   15.75 %
-Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
