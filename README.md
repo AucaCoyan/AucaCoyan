@@ -20,8 +20,8 @@ This are my last 7 days language logs:
 <!--START_SECTION:waka-->
 
 ```txt
-CSV      13 mins               ██████████████████████▓░░   91.00 %
-Python   1 min                 ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 %
+CSV      38 mins               ████████████████████████▒   96.67 %
+Python   1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
 ```
 
 <!--END_SECTION:waka-->
