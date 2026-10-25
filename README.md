@@ -20,8 +20,11 @@ This are my last 7 days language logs:
 <!--START_SECTION:waka-->
 
 ```txt
-CSV      38 mins               ████████████████████████▒   96.67 %
-Python   1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+CSV          24 mins               █████████░░░░░░░░░░░░░░░░   36.42 %
+TypeScript   16 mins               ██████░░░░░░░░░░░░░░░░░░░   24.58 %
+JSON         13 mins               █████░░░░░░░░░░░░░░░░░░░░   19.65 %
+Astro        11 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.12 %
+YAML         2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
 ```
 
 <!--END_SECTION:waka-->
